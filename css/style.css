@@ -518,8 +518,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* About Us Section
 --------------------------------*/
 #about {
-  padding: 60px 0;
+  padding: 60px 0 0;
   overflow: hidden;
+}
+
+#about img {
+  margin-top: -207px;
+  margin-left: -144px;
 }
 
 #about .about-img {
